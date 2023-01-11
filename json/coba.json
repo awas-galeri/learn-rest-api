@@ -1,0 +1,28 @@
+[
+    {
+        "nama": "Sano",
+        "umur": 20,
+        "lulus": true,
+        "hobby": [
+            "gaming",
+            "coding"
+        ],
+        "guru": [
+            "Budi",
+            "Rudi"
+        ]
+    },
+    {
+        "nama": "Erik",
+        "umur": 20,
+        "lulus": true,
+        "hobby": [
+            "gaming",
+            "coding"
+        ],
+        "guru": [
+            "Budi",
+            "Rudi"
+        ]
+    }
+]
